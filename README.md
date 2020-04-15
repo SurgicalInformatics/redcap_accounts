@@ -4,7 +4,7 @@ We use a combination of REDCap, R, Shiny, and SQL to manage registrations and da
 
 These scripts in this repository were used to create collaborator accounts for GloballSurg 3: Quality and outcomes after global cancer surgery: a prospective, international cohort study (https://globalsurg.org/gs3).
 
-The number of countries, hospitals, collaborators (mostly surgeons), and patients can be viewed here: http://data.globalsurg.org/numbers/
+The number of countries, hospitals, collaborators, and patients can be viewed here: http://data.globalsurg.org/numbers/
 
 ![](https://argonaut.is.ed.ac.uk/public/gs3_data_map.png)
 
