@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+redcap_accounts.Rproj
+token.secret*
+*.rda
+*csv
+*oauth
+!countries_gs_wb_lookup_06032019.csv
+!new_users/EXAMPLE-20191118_create_accounts.csv
